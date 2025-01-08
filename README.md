@@ -1,2 +1,2 @@
 # workers-assignment
-This is a Group Project of WORKERS  ASSIGNMENT FOR  SELECTED ASSEMBLY  LINE ( EMJAY INTERNATIONAL (PVT) LTD – PANVILA BRANCH )
+Group Project of Workers Assignment For Selected Assembly Line – Emjay International (PVT) LTD – Panvila Branch
